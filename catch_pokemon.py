@@ -1,0 +1,8 @@
+
+def main():
+    print('This is our first pokemon, Pikachu!')
+    print('This is our second pokemon, Charmander')
+    print('This is our third pokemon, Mewtwo')
+    print('This is our fourth pokemon, Snorlax')
+
+main()
